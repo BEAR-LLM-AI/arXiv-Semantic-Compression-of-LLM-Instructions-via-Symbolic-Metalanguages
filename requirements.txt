@@ -1,0 +1,15 @@
+# Core dependencies
+requests>=2.28.0
+
+# Tokenization (optional, for accurate token counting)
+tiktoken>=0.5.0
+
+# Visualization (optional, for figure generation)
+matplotlib>=3.7.0
+
+# API clients (optional, for API-based model validation)
+openai>=1.0.0
+anthropic>=0.18.0
+
+# HuggingFace (optional, for local model tokenizers)
+transformers>=4.35.0
